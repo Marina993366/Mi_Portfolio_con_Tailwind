@@ -3,7 +3,7 @@
 Portfolio personal desarrollado con **HTML** y **Tailwind CSS**, donde presento mis proyectos de **Frontend** y **Python**, junto con un resumen de mi perfil profesional.
 
 🔗 **Demo online:**  
-👉 https://marina993366.github.io/tailwind-practica/
+👉 [https://marina993366.github.io/tailwind-practica/](https://marina993366.github.io/Mi_Portfolio_con_Tailwind/)
 
 ---
 
